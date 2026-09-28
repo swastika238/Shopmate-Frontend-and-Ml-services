@@ -1,0 +1,9 @@
+{
+  "features": [
+    "battery life", "camera", "ram", "storage",
+    "display", "lightweight", "waterproof", "fast charging", "processor"
+  ],
+  "categories": [
+    "phone", "laptop", "headphones", "watch", "tablet", "camera"
+  ]
+}

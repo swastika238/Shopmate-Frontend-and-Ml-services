@@ -1,0 +1,15 @@
+import { Link } from 'react-router-dom'
+
+function Navbar() {
+  return (
+    <nav style={{ display: 'flex', gap: '1rem', padding: '1rem', background: '#fff' }}>
+      <Link to="/">Home</Link>
+      <Link to="/products">Products</Link>
+      <Link to="/cart">Cart</Link>
+      <Link to="/orders">Orders</Link>
+      <Link to="/login">Login</Link>
+    </nav>
+  )
+}
+
+export default Navbar

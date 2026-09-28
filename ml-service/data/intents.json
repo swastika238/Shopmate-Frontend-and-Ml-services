@@ -1,0 +1,21 @@
+{
+  "search_product": [
+    "I need a phone under 500",
+    "show me laptops with good battery life",
+    "find me headphones below 2000",
+    "I'm looking for a waterproof watch"
+  ],
+  "track_order": [
+    "where is my order",
+    "track my order 12345",
+    "what is the status of my order"
+  ],
+  "faq": [
+    "what is your return policy",
+    "how do I return a product",
+    "how does refund work"
+  ],
+  "greeting": [
+    "hi", "hello", "hey there"
+  ]
+}
